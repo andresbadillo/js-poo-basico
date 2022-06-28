@@ -1,0 +1,20 @@
+{
+  "name": "js-poo-basico",
+  "version": "1.0.0",
+  "description": "Curso basico de POO con JavasCript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresbadillo/js-poo-basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresbadillo/js-poo-basico/issues"
+  },
+  "homepage": "https://github.com/andresbadillo/js-poo-basico#readme"
+}
